@@ -1,3 +1,2 @@
 # Data-Analysis-of-Chess-
-Old Project That Our Team Analyzed Chess Data in R
-(2023)
+School Project That our team analyzed chess data around the world in R Studio (2023)
